@@ -1,3 +1,0 @@
-makdown: redcarpet
-baseurl: /blog
-exclude: ['README.md']
